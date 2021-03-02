@@ -1,0 +1,92 @@
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+/bin/zsh -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+brew --help
+vim
+brew install go
+go version
+mkdir -p ~/go/src/hello
+cd $_
+touch hello.go
+cd..
+cd..
+cd ..
+mkdir Frosty-or-Jura
+cd $_
+git clone https://github.com/Frosty-or-Jura/Learning_to_Go.git
+sudo vi /etc/shells
+chsh -s /usr/local/bin/zsh
+Changing shell for test_user.
+Changing shell for jasmine.
+Changing shell for jasmine@JasminenoMacBook-Air
+ chsh -s /usr/local/bin/zsh
+ sudo vi /etc/shells
+Changing shell for test_user.
+Changing shell for test_user.
+chsh -s /usr/local/bin/bash
+chsh -s /usr/local/bin/bash
+chsh -s /usr/local/bin/zsh
+chsh -s /usr/local/bin/bash
+chsh -s /usr/local/bin/bash
+chsh -s /usr/local/bin/bash
+ sudo vi /etc/shells
+chsh -s /usr/local/bin/bash
+Changing shell for test_user.
+sudo vi /etc/shells
+ps
+cd
+touch .zshrc
+ls -a
+ls -a | grep zshrc
+$ zsh
+touch ~/ .zshrc
+vi .zshrc
+vim .zshrc
+vim .zshrc
+ls
+exit
+ls
+cd
+ cd go/
+ll
+cd ..
+vim .zshrc
+exit
+ll
+vim .zshrc
+l
+ll
+ls
+ man ls
+vim .zshrc
+ls
+ll
+vim .zshrc
+ls
+ls -GF
+ls -GF
+alias ls-"ls -GF"
+ls
+alias ls="ls -GF"
+ls
+vim .zshrc
+alias ls
+alias ls="ls -GF"
+ls
+ll
+alias ls="ls -GF"
+l
+alias ls="ls -GF"
+ll
+ll
+alias ls="ls -GF"
+ls
+alias ls="ls -GF"
+ls
+alias ls="ls -GF"
+ls
+cd
+cd
+alias ls="ls -GF"
+exit
